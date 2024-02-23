@@ -1,0 +1,1 @@
+Se pudo realizar completamente lo solicitado en el ejercicio, evidenciando que cualquier servicio REST puede ser automatizada, asi teniendo nuevos activos para la empresa y evitando realizar pruebas manuales que consumen mucho tiempo aprovechando ese esfuerzo en otras tareas dandelo mas valor al negocio.
